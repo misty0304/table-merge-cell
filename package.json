@@ -1,0 +1,14 @@
+{
+  "name": "table-merge-cell",
+  "version": "1.0.1",
+  "description": "合并表格相同单元格",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "table-merge-cell"
+  ],
+  "author": "https://github.com/misty0304",
+  "license": "ISC"
+}
